@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Albert!
 
-<h2>Here are my Junior Penetration Testing skills and experience gained from TCM Security's Practical Ethical Hacking training course in preparation for their PJPT (Practical Junior Penetration Tester) certification.</h2>
+<h2>Here are my Junior Penetration Testing skills and experiences gained from TCM Security's Practical Ethical Hacking training course in preparation for their PJPT (Practical Junior Penetration Tester) certification.</h2>
 
 <h3>⚔️👨‍💻 Junior Penetration Tester skills:</h3>
 
